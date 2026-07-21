@@ -1,4 +1,3 @@
--- hide.lat / advanced / a67ccb909add
 local LL1loLOI=(getfenv and getfenv(1)) or _ENV or _G
 local LL0illiloI,iOjLil=string.byte,string.char
 local function lO01IijLojI1(i01L0jL0jljo1l,jL1llj0j10l)
