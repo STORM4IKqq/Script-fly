@@ -76,8 +76,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/STORM4IKqq/Script-fly
 ## Возможности
 
 ### Система Fly и Noclip
-
-**Версия**: Prostokvashuno v4.2.1
+Prostok
+**Версия**: v4.2.1
 
 #### Режимы полета
 
@@ -183,7 +183,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/STORM4IKqq/Script-fly
 
 ### Система Fly
 
-Файлы конфигурации сохраняются в директории `Prostokvashuno/` рабочей области вашего экзекутора с расширением `.gfly`.
+Файлы конфигурации сохраняются в директории рабочей области вашего экзекутора с расширением `.gfly`.
 
 #### Сохранение конфигурации
 
