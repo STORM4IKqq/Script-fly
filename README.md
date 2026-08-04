@@ -10,9 +10,6 @@
 
 ![Lua](https://img.shields.io/badge/Lua-5.1+-2C3E79?style=flat-square&logo=lua&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-Compatible-00A2FF?style=flat-square&logo=roblox&logoColor=white)
-![GitHub last commit](https://img.shields.io/github/last-commit/STORM4IKqq/Script-fly?style=flat-square&label=Последнее%20обновление)
-![GitHub repo size](https://img.shields.io/github/repo-size/STORM4IKqq/Script-fly?style=flat-square&label=Размер%20репо)
-![GitHub code size](https://img.shields.io/github/languages/code-size/STORM4IKqq/Script-fly?style=flat-square&label=Размер%20кода)
 
 **Fly v4.2.1** • **Fling STORM4IK** • **MIT License**
 
